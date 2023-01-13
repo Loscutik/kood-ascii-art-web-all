@@ -9,7 +9,7 @@ import (
 	"os"
 	"strconv"
 
-	"ascii-art-web/asciiart"
+	"01.kood.tech/git/obudarah/ascii-art-web-all/asciiart"
 )
 
 const (
